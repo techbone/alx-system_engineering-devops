@@ -1,2 +1,4 @@
 #!/bin/bash
 to Display the contents list of your current directory
+0-current_working_directory
+ls
